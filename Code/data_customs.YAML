@@ -1,0 +1,7 @@
+train: C:\Users\Jaswanth\Desktop\Road_Object_Detection\Opencv-yolo\train
+
+val: C:\Users\Jaswanth\Desktop\Road_Object_Detection\Opencv-yolo\val
+
+nc : 6
+
+names : ["noraml", "cars", "buses", "trucks", "bikes", "autos"]
