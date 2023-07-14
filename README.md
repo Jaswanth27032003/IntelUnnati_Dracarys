@@ -59,10 +59,10 @@ Download the appropriate model weights file and place it in the project director
   `pip install opencv-python`
 
   
-  1) Create a Directory "OpenCv" which contains all the open files of `Models`, `Code`, `Data`at one place to integrate Yolo with OpenCv
-  2) Now open the command prompt and activate the Python Environment you have created. Ex: `Enivornment_name\Scripts\activate`
-  3) Now change Directory to the OpenCv folder Ex: `cd Directory_location/Opencv`
-  4) Now refer to the OpenCv code `Code/Opencv.py`
+  1) Create a Directory "OpenCv" which contains all the open files of `Models`, `Code`, `Data`at one place to integrate Yolo with OpenCv.
+  2) Now open the command prompt and activate the Python Environment you have created. Ex: `Enivornment_name\Scripts\activate`.
+  3) Now change Directory to the OpenCv folder Ex: `cd Directory_location/Opencv`.
+  4) Now refer to the OpenCv code `Code/Opencv.py`.
 
 **Note: To get the desired output you have to change the code to your requirements in `Line 6, Line 22, Line 25, Line 39`
     `Line 6` - Data/coco.txt
