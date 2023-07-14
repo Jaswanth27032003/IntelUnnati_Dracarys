@@ -39,11 +39,15 @@ Download the appropriate model weights file and place it in the project director
 
       Here is an example code to download the images:
 
-     ` from simple_image_download import simple_image_download as simp
-      response = simp.simple_image_download()
-      keywords = ["vechiles in snow", "vechiles in rainy"]
-      for kw in keywords:
-      response.download(kw, 100)`
+       from simple_image_download import simple_image_download as simp
+   
+       response = simp.simple_image_download()
+   
+       keywords = ["vechiles in snow", "vechiles in rainy"]
+    
+       for kw in keywords:
+   
+       response.download(kw, 100)
 
 
 8) Create a data.yaml file to specify the dataset configuration. Add the classes to the data.yaml file as mentioned in the provided classes.txt file.
