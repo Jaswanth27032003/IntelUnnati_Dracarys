@@ -52,4 +52,4 @@ Note: If you have an Nvidia graphics card with GPU support and the latest CUDA a
 
 This command will save the output in the current directory, inside a `"runs" `folder.
 
-Please refer to the project's documentation for detailed usage instructions and customization options.
+### Please refer to the project's documentation for detailed usage instructions and customization options.
