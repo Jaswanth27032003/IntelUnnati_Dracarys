@@ -53,7 +53,7 @@ Download the appropriate model weights file and place it in the project director
 
       This command will save the output in the current directory, inside a `"runs" `folder.
 
-**Now we are add OpenCv to our Project**
+**Now we added OpenCv to our Project**
 
   1) Create a Directory "OpenCv" which contains all the open files of `Models`, `Code`, `Data`at one place to integrate Yolo with OpenCv
   2) Now open the command prompt and activate the Python Environment you have created. Ex: `Enivornment_name\Scripts\activate`
