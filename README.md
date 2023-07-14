@@ -1,2 +1,3 @@
 # IntelUnnati_Dracarys
-Through its focus on challenging weather conditions, the Road Object Detection using YOLOv8m repository enhances road safety and offers a complete solution for the YOLOv8m model's training and deployment in real-time object detection.
+Enhancing road safety with YOLOv8m object detection improves road safety with real-time object detection in challenging conditions.
+Road Object Detection using YOLOv8m
